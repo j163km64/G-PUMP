@@ -43,3 +43,19 @@ fill
 ```
 
 fill command is to empty the syringe and suck the fluids from the tips, you can also fill the syringe from the bottom.
+
+
+
+## BOM
+
++ KENTO syringe
+
++ Arduino Nano
+
++ Stepper driver (e.g., DRV8825)
+
++ Jumper
+
++ 1/16 Teflon pipe
+
++ Luer taper
